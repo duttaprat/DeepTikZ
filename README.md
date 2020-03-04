@@ -1,9 +1,9 @@
 # DeepTikZ
-PGF/TikZ figures for advanced deep learning models. You can simply `fork` or download/clone this repository and use for your journals/conferences. If you find this repository useful, please **star** this repository.  
+PGF/TikZ figures for advanced deep learning models. You can simply `fork` or download/clone this repository and use for your journals/conferences. If you find this repository useful, please give this repository a **star** .  
 
 ## Contents 
 1.  [Capsule Network](https://github.com/sduttap16/DeepTikZ/tree/master/Capsule%20Network)
-2.  Graph Convolutional Neural Network[Coming soon..]
+2.  Graph Convolutional Neural Network[Coming soon...]
 
 
 ## Author
